@@ -1,0 +1,67 @@
+.body{
+  width:900px;
+  height:500px;
+  border: 1px solid rgb(192, 192, 190) ;  
+}
+.innerbody{
+  display:flex;
+  width:900px;
+  height: 250px; 
+}
+.list{
+  display:flex;
+  width: 200px;
+  justify-content:flex-end;
+}
+.write{
+display: flex;
+width: 300px;
+/* opacity: 0.5; */
+color: black;
+}
+.btnbox{
+  display:flex;
+  width: 200px;
+  justify-content:flex-end;
+}
+.boxes{
+  display:flex;
+  width:50px;
+  height:50px;
+}
+.but{
+   height:10px;
+}
+.rate{
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.secondbody{
+  display:grid;
+  width:900px;
+  height:250px;
+}
+.total{
+  display:flex;
+  justify-content: flex-end;
+}
+.sub{
+  display: flex;
+  width: 900px;
+  height:30px;
+  justify-content: space-between;
+  padding: 2px;
+  color: black;
+}
+.remove{
+  display:grid;
+  color: black;
+}
+.word{
+  color: red;
+}
+.title{
+  color:rgb(232, 18, 228)
+}
